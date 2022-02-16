@@ -1,0 +1,44 @@
+.card-body{
+   align-items: center;
+}
+
+.cards{
+    display: inline-block;
+    text-align: center;
+    width: 25%;
+}
+@media only screen and (max-width: 767px){
+    .cards{
+        display: block;
+        width: 100%;
+    }
+}
+.card{
+   margin: 10px;
+   border: black 5px solid;
+   box-shadow: rgb(0, 0, 0) 0px 0px 10px;
+}
+.card:hover{
+    cursor: pointer;
+    filter:opacity(.5);
+}
+
+.user-cards{
+    position: relative;
+    top: 70px;
+}
+/* Add Buttons */
+.btn.btn-success{
+    background-color: rgba(71, 193, 30, 0.625);
+}
+.btn.btn-success:hover{
+    background-color: rgb(65, 223, 12);
+    filter: saturate(200%);
+}
+
+.spotify-button{
+    width:33%;
+}
+.spotify-button:hover{
+    filter:saturate(300%)
+}

@@ -1,0 +1,57 @@
+.search-form{
+    position: relative;
+    text-align: center;
+    top: 10px;
+    font-size: .75rem;
+    height: auto;
+    width: 100%;
+    margin: 60px 0px 0px 0px;
+}
+
+.search-button {
+    margin-left: 5px;
+    font-size: .70rem;
+    width: auto;
+    height: auto;
+    border: black solid .1rem;
+    border-radius: 5px;
+    box-shadow: rgb(0, 0, 0) 0px 2px 10px;
+}
+
+.search-button:hover {
+    background-color: rgb(26, 206, 26);
+}
+
+.search-button:focus {
+    background-color: rgb(109, 109, 109);
+}
+
+.search-input {
+    box-shadow: rgba(0, 0, 0, 0.379) 0px 2px 10px;
+    border-radius: 5px;
+    width: 250px;
+}
+
+.random{
+    margin-bottom: 15px;
+    text-align: center;
+    text-shadow: 1px 1px 4px grey;
+}
+
+.search-results{
+    margin: 10px;
+    text-align: center;
+    text-shadow: 1px 1px 4px grey;
+}
+
+.search-background{
+    background-color: black;
+    height: 35px;
+    padding-top: 5px;
+}
+
+.favorites-podcasts{
+    position: relative;
+    top: 100px;
+    margin-bottom: 50px;
+}

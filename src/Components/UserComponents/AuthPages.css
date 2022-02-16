@@ -1,0 +1,18 @@
+.center-everything{
+    display: flex;
+    justify-content: center;
+}
+
+.signin{
+    position: absolute;
+    top: 75px;
+    text-align: center;
+    text-shadow: 1px 1px 2px grey;
+}
+
+.signup{
+    position: absolute;
+    top: 75px;
+    text-align: center;
+    text-shadow: 1px 1px 2px grey;
+}
