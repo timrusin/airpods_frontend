@@ -1,4 +1,4 @@
-# project3_frontend
+# Airpods podcast app_frontend
 
 ## Description
 -This app is designed to allow users to sign-up for an account and then browse random podcasts from Spotify's database, and also search Spotify's database by podcast title in order to find information about and listen to podcasts. The users can also save podcasts to their own "playlist" in order to organize/keep track of their favorite podcasts.
