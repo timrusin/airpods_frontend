@@ -25,6 +25,12 @@
 ## Visit the site
 - https://teamairapp.herokuapp.com/
 
+## Contributors
+- Robert Julian
+- Tim Rusin
+- Regina Sherman
+- Ted Tash
+
 ## Contribution Guidelines
 #### To view/contribute to the front end code visit: 
 -https://github.com/ReginaSherman/project3_frontend
